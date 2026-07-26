@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Suhaib Ahmad
 
-### Full-Stack Developer • WordPress & React Specialist • Lahore, Pakistan 🇵🇰
+### Full-Stack Developer • WordPress & Frontend Specialist • Lahore, Pakistan 🇵🇰
 
 3+ years building e-commerce, real estate & educational platforms · ACF & Next.js expert · Performance-obsessed · Open to freelance & collaboration
 
